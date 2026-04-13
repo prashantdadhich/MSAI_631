@@ -1,0 +1,18 @@
+Welcome to SimpleBot!
+Type 'help' to see capabilities.
+Type 'exit' to quit.
+
+You: hello
+Bot: Hello! How can I help you today?
+
+You: what can you do
+Bot: I am a simple traditional chatbot. I can respond to greetings, tell you my name, explain my capabilities, answer a few simple questions, and handle unknown input.
+
+You: what is your name
+Bot: My name is SimpleBot.
+
+You: asdfgh
+Bot: Sorry, I did not understand that. Type 'help' to see what I can do.
+
+You: exit
+Bot: Goodbye! Thanks for chatting with me.
